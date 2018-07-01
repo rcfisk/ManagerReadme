@@ -2,11 +2,13 @@
 Hi, my name is Rick and welcome to the team. I wrote this document so that you can understand a little bit about me, about the way I work and what I expect from each member of the team.
 
 My Role
+
 As a manager, my primary role is to develop the careers of each and every team member. To enhance their skills and experiences. To make them more marketable. It is then my responsibility to make the job exciting and worthwhile getting out of bed for.
 
 I always describe my job as an umbrella holder. I hold an umbrella above the team to protect them from distractions and allow each team member to focus on what they do best.
 
 Expectations of the team
+
 I expect everybody on the team to support an open and collaborative culture.
 
 I expect everybody on the team to push themselves beyond their comfort zone and to push for innovative solutions in everything they do.
@@ -18,11 +20,13 @@ I expect everybody on the team to not present problems and instead identify solu
 I expect everybody on the team to know when to escalate issues and when to continue working on an issue.
 
 1:1s
+
 I will always make myself available whenever you need to talk and will make sure I have a regularly scheduled catchup at least once per fortnight.
 
 When we do meet, we will always use it to discuss career development and talk through any issues you are currently facing. While we may discuss current task progress it is not the goal of each meeting.
 
 Who Am I?
+
 I am an extroverted introvert. I get positive energy out of personal interactions and public speaking, but I do need personal time to unwind.
 
 On the Think Feel Know classification, I am a Knower. This means that I trust my intuition. I make quick judgements and fast decisions. I tune into the energy from other people. I am happy with silence. I get straight to the point. And I remain calm and relaxed.
