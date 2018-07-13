@@ -15,10 +15,15 @@ I expect everybody on the team to push themselves beyond their comfort zone and 
 
 I expect everybody on the team to identify business value in each and everything they work on, and evaluate each day's activities to ensure time was spent in the best way possible.
 
+I expect every team member to always have quality at the forefront of everything they do. All tasks should have metrics associated with them so we can evaluate the quality and ensure we are focused on improvement of ourselves, of our solutions and of the organisation.
+
 I expect everybody on the team to not present problems and instead identify solutions. I will always be available to work through your proposed solutions to identify the best solution for a given problem.
 
 I expect everybody on the team to know when to escalate issues and when to continue working on an issue.
 
+I expect everybody on the team to show discipline in following the process. We will support an agile culture and constantly improve all aspects of the process and the whole team will participate in owning the process, and we'll all follow the processes as defined.
+
+I expect everybody on the team to self-organize. As a team, we will succeed together and at times we'll fail together. While each team member will have skills that the team will rely on, no team member is just a title and everybody will be expected to go beyond their job titles and contribute to the overall team success. I expect everybody on the team to self-organize for the greater good of the team.
 1:1s
 
 I will always make myself available whenever you need to talk and will make sure I have a regularly scheduled catchup at least once per fortnight.
@@ -40,3 +45,4 @@ I believe in work/life balance and enjoy time with my family and friends outside
 I prefer communication to be via slack. Once a decision has been made it should be preserved in an email to the team and stakeholders.
 
 Note, this document is a work in progress and I plan to update this document at least monthly.
+It is also live at https://www.dandelionskyconsulting.com/2018/07/01/manager-readme/
