@@ -1,11 +1,13 @@
 # Manager Readme
 Hi, my name is Rick and welcome to the team. I wrote this document so that you can understand a little bit about me, about the way I work and what I expect from each member of the team.
 
+
 My Role
 
 As a manager, my primary role is to develop the careers of each and every team member. To enhance their skills and experiences. To make them more marketable. It is then my responsibility to make the job exciting and worthwhile getting out of bed for.
 
 I always describe my job as an umbrella holder. I hold an umbrella above the team to protect them from distractions and allow each team member to focus on what they do best.
+
 
 Expectations of the team
 
@@ -19,16 +21,19 @@ I expect every team member to always have quality at the forefront of everything
 
 I expect everybody on the team to not present problems and instead identify solutions. I will always be available to work through your proposed solutions to identify the best solution for a given problem.
 
-I expect everybody on the team to know when to escalate issues and when to continue working on an issue.
+I expect everybody on the team to know when they should escalate issues or when they should continue working on an issue.
 
-I expect everybody on the team to show discipline in following the process. We will support an agile culture and constantly improve all aspects of the process and the whole team will participate in owning the process, and we'll all follow the processes as defined.
+I expect everybody on the team to show discipline in following the process. We will support an agile culture and constantly improve all aspects of the process. The whole team will participate in owning the process and expected to follow the process as we have it defined.
 
 I expect everybody on the team to self-organize. As a team, we will succeed together and at times we'll fail together. While each team member will have skills that the team will rely on, no team member is just a title and everybody will be expected to go beyond their job titles and contribute to the overall team success. I expect everybody on the team to self-organize for the greater good of the team.
+
+
 1:1s
 
 I will always make myself available whenever you need to talk and will make sure I have a regularly scheduled catchup at least once per fortnight.
 
-When we do meet, we will always use it to discuss career development and talk through any issues you are currently facing. While we may discuss current task progress it is not the goal of each meeting.
+When we do meet, we will always use it to discuss career development and talk through any issues you are currently facing. While we may discuss current task progress it is not the goal of each meeting. So come prepared.
+
 
 Who Am I?
 
