@@ -37,6 +37,8 @@ I am an extroverted introvert. I get positive energy out of personal interaction
 
 On the Think Feel Know classification, I am a Knower. This means that I trust my intuition. I make quick judgements and fast decisions. I tune into the energy from other people. I am happy with silence. I get straight to the point. And I remain calm and relaxed.
 
+On The Prodictive Index classification, I am a Venturer. The definition of a Venturer is a self-starting, self-motivating, and goal-oriented risk-taker.
+
 During meetings, I will not be the first person to speak. I like to analyse the discussion before I open my mouth. This does not mean I am not giving 100% of my attention during a meeting.
 
 I am terrible at remembering names when I meet people. This is something I continue to work on.
